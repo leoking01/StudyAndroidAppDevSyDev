@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FloatWindow_Kent.iml" filepath="$PROJECT_DIR$/.idea/modules/FloatWindow_Kent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/floatwindow/FloatWindow_Kent.floatwindow.iml" filepath="$PROJECT_DIR$/.idea/modules/floatwindow/FloatWindow_Kent.floatwindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/floatwindow/FloatWindow_Kent.floatwindow.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/floatwindow/FloatWindow_Kent.floatwindow.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/floatwindow/FloatWindow_Kent.floatwindow.main.iml" filepath="$PROJECT_DIR$/.idea/modules/floatwindow/FloatWindow_Kent.floatwindow.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/floatwindow/FloatWindow_Kent.floatwindow.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/floatwindow/FloatWindow_Kent.floatwindow.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/FloatWindow_Kent.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/FloatWindow_Kent.sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/FloatWindow_Kent.sample.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/FloatWindow_Kent.sample.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/FloatWindow_Kent.sample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/FloatWindow_Kent.sample.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/FloatWindow_Kent.sample.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/FloatWindow_Kent.sample.unitTest.iml" />
+    </modules>
+  </component>
+</project>
